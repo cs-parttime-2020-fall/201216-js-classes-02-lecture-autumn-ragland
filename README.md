@@ -41,7 +41,7 @@ in Stock - false
 Output the product object's properties using the correct class method, update the inStock property using the correct class method, discount the product using the correct class method and output the returned value.
 
 ### Professors
-Declare a `Professor` class. The Professor class should should instantiate each object with id, name, students, and isTenured properties. The students property should be set o an empty array. The Professor class should also have two methods : `addStudent` and `outputProfessor`.
+Declare a `Professor` class. The Professor class should instantiate each object with id, name, students, and isTenured properties. The students property should be set an empty array. The Professor class should also have two methods : `addStudent` and `outputProfessor`.
 
 The outputProfessor method outputs the following with the number for Professor Students representing to the length of the students array
 ```
